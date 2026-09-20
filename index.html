@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Zona 5 — Stiamo arrivando</title>
+<meta name="description" content="Il nuovo sito di Zona 5 sta arrivando.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@600&family=Didact+Gothic&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --fill1a:#121212;
+    --fill1b:#1D1F21;
+    --fill1c:#141516;
+    --text1:#F5F5F5;
+    --text2:#8C8C8C;
+    --surf1:#219CBA;
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  html,body{height:100%}
+  body{
+    font-family:"Didact Gothic",Helvetica,Arial,sans-serif;
+    background:linear-gradient(158deg,var(--fill1a) 0%,var(--fill1b) 54%,var(--fill1c) 100%);
+    color:var(--text1);
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    min-height:100vh;
+    padding:24px;
+  }
+  .wrap{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    gap:28px;
+    text-align:center;
+    max-width:640px;
+  }
+  .logo{
+    width:220px;
+    height:auto;
+  }
+  .filo{
+    width:36px;
+    height:2px;
+    background:var(--surf1);
+    border-radius:1px;
+  }
+  h1{
+    font-family:"Outfit",Helvetica,Arial,sans-serif;
+    font-weight:600;
+    font-size:28px;
+    line-height:1.15;
+    letter-spacing:-0.5px;
+    color:var(--text1);
+  }
+  @media (min-width:768px){
+    .logo{width:280px}
+    h1{font-size:38px}
+  }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <img class="logo" src="logo.svg" alt="Zona 5">
+    <div class="filo"></div>
+    <h1>Stiamo arrivando</h1>
+  </div>
+</body>
+</html>
