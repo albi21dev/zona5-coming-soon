@@ -60,7 +60,7 @@
                                     </mask>
                                 </defs>
                                 <g mask="url(#Mask)">
-                                    <path d="M0.883,0.718L0,-0.706L1,0.718L0.883,0.718Z" style="fill:url(#_Linear1);fill-rule:nonzero;"/>
+                                    
                                 </g>
                             </g>
                             <g transform="matrix(4.582363,0,0,-4.582363,745.815617,446.041947)">
@@ -72,7 +72,7 @@
                                     </mask>
                                 </defs>
                                 <g mask="url(#Mask1)">
-                                    <path d="M1.195,2.437L-1.07,-2.437L1.716,2.437L1.195,2.437Z" style="fill:url(#_Linear3);fill-rule:nonzero;"/>
+                                    
                                 </g>
                             </g>
                             <g transform="matrix(49.688904,0,0,-49.688904,756.208866,473.476376)">
@@ -84,7 +84,7 @@
                                     </mask>
                                 </defs>
                                 <g mask="url(#Mask2)">
-                                    <path d="M0.928,0.777L-0,-0.777L1,0.777L0.928,0.777Z" style="fill:url(#_Linear5);fill-rule:nonzero;"/>
+                                    
                                 </g>
                             </g>
                             <g transform="matrix(48.413773,0,0,-48.413773,715.659916,497.97701)">
@@ -96,7 +96,7 @@
                                     </mask>
                                 </defs>
                                 <g mask="url(#Mask3)">
-                                    <path d="M0.942,0.845L0,-0.842L1.005,0.842L0.942,0.845Z" style="fill:url(#_Linear7);fill-rule:nonzero;"/>
+                                    
                                 </g>
                             </g>
                             <g transform="matrix(1,0,0,1,756.208878,461.5361)">
@@ -147,7 +147,7 @@
                                     </mask>
                                 </defs>
                                 <g mask="url(#Mask4)">
-                                    <path d="M1.111,1.413L0.776,1.413L-1.07,-2.46L1.111,1.413Z" style="fill:url(#_Linear10);fill-rule:nonzero;"/>
+                                    
                                 </g>
                             </g>
                             <g transform="matrix(127.202484,0,0,-127.202484,361.28186,348.413754)">
@@ -159,7 +159,7 @@
                                     </mask>
                                 </defs>
                                 <g mask="url(#Mask5)">
-                                    <path d="M0,-0.782L0.872,0.663L0.909,0.661L0,-0.782Z" style="fill:url(#_Linear12);fill-rule:nonzero;"/>
+                                    
                                 </g>
                             </g>
                             <g transform="matrix(326.882416,0,0,-326.882416,149.396683,677.326706)">
@@ -171,7 +171,7 @@
                                     </mask>
                                 </defs>
                                 <g mask="url(#Mask6)">
-                                    <path d="M1,0.702L-0.025,-0.704L0.985,0.701L1,0.702Z" style="fill:url(#_Linear14);fill-rule:nonzero;"/>
+                                    
                                 </g>
                             </g>
                             <g transform="matrix(127.203239,0,0,-127.203239,230.305145,429.462781)">
@@ -183,7 +183,7 @@
                                     </mask>
                                 </defs>
                                 <g mask="url(#Mask7)">
-                                    <path d="M1,0.865L0.956,0.865L0.023,-0.869L1,0.865Z" style="fill:url(#_Linear16);fill-rule:nonzero;"/>
+                                    
                                 </g>
                             </g>
                             <g transform="matrix(1,0,0,1,438.8254,836.3008)">
